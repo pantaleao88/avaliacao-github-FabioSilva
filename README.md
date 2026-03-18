@@ -1,2 +1,4 @@
-# avaliacao-github-FabioSilva
- Ficha de avaliação GitHub - UFCD UC00617
+Nome: Fabio Silva, 
+Curso: Desenvolvimento de software,
+Data: 18/03/2026
+
